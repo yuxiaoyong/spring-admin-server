@@ -1,3 +1,3 @@
-#SpringAdminServer服务端配置
+# SpringAdminServer服务端配置
 
-#SpringAdminClient客户端配置
+# SpringAdminClient客户端配置
